@@ -38,7 +38,7 @@ I bring 10+ years of professional QA experience and have transitioned into cyber
 ---
 
 ## 📌 About Me  
-I’m based in **Charlotte, NC** and currently pursuing a career in cybersecurity after 10+ years in software QA.  
+I’m based in **Charlotte, NC** and currently focused on advancing my career in cybersecurity. 
 My focus is on **SOC Analyst roles**, with a long-term goal of advancing into **cloud and AI security**.  
 
 ---
