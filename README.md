@@ -1,4 +1,4 @@
-# 🛡️ Donte’ L. Case — Cybersecurity Portfolio  
+# 🛡️ Donte Case — Cybersecurity Portfolio  
 
 Welcome to my cybersecurity portfolio. This repo showcases hands-on labs and projects demonstrating my skills in **SOC operations, detection engineering, threat hunting, and incident response**.  
 
